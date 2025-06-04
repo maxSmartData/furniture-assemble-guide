@@ -4,7 +4,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import FileUpload from "@/components/upload/FileUpload";
 import ProductSelection from "@/components/products/ProductSelection";
-import ModelViewer from "@/components/viewer/ModelViewer";
+import InstructionViewer from "@/components/viewer/InstructionViewer";
 
 const Index = () => {
   const [viewerVisible, setViewerVisible] = useState(false);
@@ -26,7 +26,7 @@ const Index = () => {
           <h1 className="text-4xl font-bold mb-4">Möbelaufbau leicht gemacht</h1>
           <p className="text-xl text-muted-foreground">
             MöbelGuide wandelt komplizierte Anleitungen in einfache, 
-            interaktive 3D-Visualisierungen um – für einen stressfreien Aufbau.
+            verständliche Schritt-für-Schritt-Anleitungen um – für einen stressfreien Aufbau.
           </p>
         </section>
         
@@ -38,7 +38,7 @@ const Index = () => {
           )}
           
           {viewerVisible && (
-            <ModelViewer />
+            <InstructionViewer />
           )}
         </div>
       </main>
