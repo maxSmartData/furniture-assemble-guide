@@ -17,7 +17,7 @@ import { Badge } from "@/components/ui/badge";
 const INSTRUCTION_STEPS = [
   { 
     id: 1, 
-    title: "Wand ausmessen", 
+    title: "Wandlänge ausmessen", 
     description: "Messe mit einem Maßband die gewünschte Position des Regals ab. Achte darauf, dass das Regal waagerecht hängt und die richtige Höhe hat.",
     image: "https://gemini.google.com/app/d973cbc321150512?hl=de",
     duration: "2-3 Minuten",
