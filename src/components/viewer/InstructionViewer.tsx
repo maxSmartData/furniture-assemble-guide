@@ -25,7 +25,7 @@ const INSTRUCTION_STEPS = {
       id: 1, 
       title: "Wandlänge ausmessen", 
       description: "Messe mit einem Maßband die gewünschte Position des Regals ab. Achte darauf, dass das Regal waagerecht hängt und die richtige Höhe hat.",
-      image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/b_rgb:FFFFFF/c_pad,w_600,h_400/v1749630782/Ausmessen_kjlpoh.png",
       duration: "2-3 Minuten",
       tools: ["Maßband", "Bleistift"]
     },
