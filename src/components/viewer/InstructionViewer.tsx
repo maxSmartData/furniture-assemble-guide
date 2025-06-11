@@ -41,7 +41,7 @@ const INSTRUCTION_STEPS = {
       id: 3, 
       title: "Bohren", 
       description: "Löcher mit der Bohrmaschine bohren. Wähle den richtigen Bohrer für deine Wandart (Beton, Gipskarton, etc.). Bohre langsam und gleichmäßig.",
-      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/v1749630780/Bohren_zj4xxc.png",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/b_rgb:FFFFFF/c_pad,w_600,h_400/v1749630780/Bohren_zj4xxc.png",
       duration: "3-5 Minuten",
       tools: ["Bohrmaschine", "Bohrer", "Schutzbrille"]
     },
@@ -49,7 +49,7 @@ const INSTRUCTION_STEPS = {
       id: 4, 
       title: "Dübel einsetzen", 
       description: "Dübel in die gebohrten Löcher stecken. Die Dübel sollten bündig mit der Wand abschließen. Bei Bedarf vorsichtig mit einem Hammer einklopfen.",
-      image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&h=400&fit=crop",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/b_rgb:FFFFFF/c_pad,w_600,h_400/v1749630781/D%C3%BCbel_gquaje.png",
       duration: "1-2 Minuten",
       tools: ["Dübel", "Hammer"]
     },
@@ -57,7 +57,7 @@ const INSTRUCTION_STEPS = {
       id: 5, 
       title: "Regalhalter montieren", 
       description: "Halterungen mit den mitgelieferten Schrauben anschrauben. Ziehe die Schrauben fest an, aber nicht zu fest, um die Dübel nicht zu beschädigen.",
-      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/v1749631883/Halterung_sdqmly.png",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/b_rgb:FFFFFF/c_pad,w_600,h_400/v1749631883/Halterung_sdqmly.png",
       duration: "3-4 Minuten",
       tools: ["Schraubendreher", "Schrauben", "Halterungen"]
     },
@@ -75,7 +75,7 @@ const INSTRUCTION_STEPS = {
       id: 1, 
       title: "Measure wall length", 
       description: "Use a measuring tape to determine the desired position of the shelf. Make sure the shelf hangs level and at the correct height.",
-      image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/b_rgb:FFFFFF/c_pad,w_600,h_400/v1749630780/Regal_sio7uj.png",
       duration: "2-3 minutes",
       tools: ["Measuring tape", "Pencil"]
     },
