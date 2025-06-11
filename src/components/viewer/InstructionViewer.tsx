@@ -33,7 +33,7 @@ const INSTRUCTION_STEPS = {
       id: 2, 
       title: "Bohrlöcher markieren", 
       description: "Mit Bleistift die Punkte für die Bohrungen anzeichnen. Verwende eine Wasserwaage, um sicherzustellen, dass die Markierungen gerade sind.",
-      image: "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5?w=600&h=400&fit=crop",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/b_rgb:FFFFFF/c_pad,w_600,h_400/v1749630781/Markieren_bljc9a.png",
       duration: "1-2 Minuten", 
       tools: ["Bleistift", "Wasserwaage", "Bohrschablone"]
     },
@@ -41,7 +41,7 @@ const INSTRUCTION_STEPS = {
       id: 3, 
       title: "Bohren", 
       description: "Löcher mit der Bohrmaschine bohren. Wähle den richtigen Bohrer für deine Wandart (Beton, Gipskarton, etc.). Bohre langsam und gleichmäßig.",
-      image: "https://images.unsplash.com/photo-1609592806085-6c92d7f8b4c4?w=600&h=400&fit=crop",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/v1749630780/Bohren_zj4xxc.png",
       duration: "3-5 Minuten",
       tools: ["Bohrmaschine", "Bohrer", "Schutzbrille"]
     },
@@ -57,7 +57,7 @@ const INSTRUCTION_STEPS = {
       id: 5, 
       title: "Regalhalter montieren", 
       description: "Halterungen mit den mitgelieferten Schrauben anschrauben. Ziehe die Schrauben fest an, aber nicht zu fest, um die Dübel nicht zu beschädigen.",
-      image: "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&h=400&fit=crop",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/v1749631883/Halterung_sdqmly.png",
       duration: "3-4 Minuten",
       tools: ["Schraubendreher", "Schrauben", "Halterungen"]
     },
@@ -65,7 +65,7 @@ const INSTRUCTION_STEPS = {
       id: 6, 
       title: "Regalbrett auflegen", 
       description: "Brett auf die Halterung setzen und fixieren. Überprüfe, ob das Regal stabil ist und gleichmäßig aufliegt. Fertig!",
-      image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&h=400&fit=crop",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/v1749630782/Ausmessen_kjlpoh.png",
       duration: "1-2 Minuten",
       tools: ["Regalbrett"]
     }
