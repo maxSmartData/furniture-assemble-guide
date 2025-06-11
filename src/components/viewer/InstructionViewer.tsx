@@ -65,7 +65,7 @@ const INSTRUCTION_STEPS = {
       id: 6, 
       title: "Regalbrett auflegen", 
       description: "Brett auf die Halterung setzen und fixieren. Überprüfe, ob das Regal stabil ist und gleichmäßig aufliegt. Fertig!",
-      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/v1749630782/Ausmessen_kjlpoh.png",
+      image: "https://res.cloudinary.com/dqc6tpdqo/image/upload/b_rgb:FFFFFF/c_pad,w_600,h_400/v1749630780/Regal_sio7uj.png",
       duration: "1-2 Minuten",
       tools: ["Regalbrett"]
     }
